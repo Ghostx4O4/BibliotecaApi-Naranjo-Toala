@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6PUX9c/Dkyw=",
+  "dgSpecHash": "DLHHJEOoReE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\BibliotecaApi.csproj",
+  "projectFilePath": "C:\\Users\\josue\\OneDrive\\Documentos\\GitHub\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\BibliotecaApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+    "C:\\Users\\josue\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\josue\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
   ],
   "logs": []
 }
