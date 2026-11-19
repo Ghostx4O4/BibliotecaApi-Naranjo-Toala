@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\BibliotecaApi.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\BibliotecaApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\BibliotecaApi.csproj": {
+    "C:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\BibliotecaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\BibliotecaApi.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\BibliotecaApi.csproj",
         "projectName": "BibliotecaApi",
-        "projectPath": "c:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\BibliotecaApi.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\BibliotecaApi.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Escritorio\\UG\\SEPTIMO SEMESTRE\\DESARROLLO DE APLICACIONES WEB AVANZADO 7-4\\Primer Parcial\\Tareas Grupales\\BibliotecaApi-Naranjo-Toala\\BibliotecaApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
